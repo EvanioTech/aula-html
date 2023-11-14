@@ -1,5 +1,5 @@
 let image = document.getElementById("like")
 
 image.addEventListener("click", function () {
-    image.scr = "./img/images.jpeg"
+    image.src = "./img/images (1).jpeg"
 })
